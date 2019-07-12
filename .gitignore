@@ -1,0 +1,13 @@
+#Can be installed locally by using npm install
+node_modules
+
+#storage files
+.DS_STORE
+dump.rdb
+.DS_Store
+
+/.DS_Store
+*.log
+
+*.iml
+*.idea
